@@ -3,7 +3,7 @@
 Introductory assignments and final capstone project for the IBM Data Science Capstone Course
 
 ## Contents
-1. Intro Assignment- Clustering Neighborhoods in Toronto
+1. Intro Assignment- Segmenting and Clustering Neighborhoods in Toronto
 
     Explores Foursquare venues in Toronto and clusters neighborhoods by the venues in the neighborhood. 
     
